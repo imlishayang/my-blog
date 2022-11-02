@@ -8,7 +8,7 @@ const Blogpost = () => {
 
       <div className='flex flex-col item-center justify-center mx-auto px-4 md:px-44 pt-6'>
         <p className='pb-2 md:text-xl'>November 2nd, 2022 16:41</p>
-        <p className='md:py-4 text-xl md:text-2xl'> I worked out making the website more responsive. I keep forgetting that tailwind is mobile first *ah* </p>
+        <p className='md:py-4 text-xl md:text-2xl'> The last aspect I worked on today is making the website responsive. It's funny playing around with the different text sizes and colors. </p>
       </div>
 
       <div className='flex flex-col item-center justify-center mx-auto px-4 md:px-44 pt-6'>
