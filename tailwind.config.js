@@ -4,8 +4,9 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    colors:{
-      'salmon-pink': '#F8C4B4',
+    colors: {
+      'background': '#FFF5E4',
+      'yellow-highlighter':'#FFDE00',
     },
     extend: {},
   },
