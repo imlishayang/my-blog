@@ -8,7 +8,7 @@ const Blogpost = () => {
 
       <div className='flex flex-col item-center justify-center mx-auto px-4 md:px-44 pt-6'>
         <p className='pb-2 md:text-xl'>November 2nd, 2022 16:41</p>
-        <p className='md:py-4 text-xl md:text-2xl'> The last aspect I worked on today is making the website responsive. It's funny playing around with the different text sizes and colors. </p>
+        <p className='md:py-4 text-xl md:text-2xl'> The last aspect I worked on today is making the website responsive. It's fun playing around with the different text sizes and colors. I want to try <span className='underline'> figure out how to create a date function to call into this component </span> .</p>
       </div>
 
       <div className='flex flex-col item-center justify-center mx-auto px-4 md:px-44 pt-6'>
