@@ -7,6 +7,7 @@ module.exports = {
     colors: {
       'background': '#FFF5E4',
       'yellow-highlighter':'#FFDE00',
+      'blue': '#1D1CE5',
     },
     extend: {},
   },
